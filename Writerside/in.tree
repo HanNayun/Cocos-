@@ -7,6 +7,8 @@
                  start-page="cocos-bug-docs.md">
 
     <toc-element topic="cocos-bug-docs.md">
+        <toc-element topic="修改节点层级.md"/>
+        <toc-element topic="改变材质透明度.md"/>
         <toc-element topic="点击事件响应目标错误.md"/>
     </toc-element>
 </instance-profile>
