@@ -2,8 +2,8 @@
 <!DOCTYPE instance-profile
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="in"
-                 name="Instance Name"
+<instance-profile id="cocos-dev-notes"
+                 name="Cocos开发记录"
                  start-page="cocos-bug-docs.md">
 
     <toc-element topic="cocos-bug-docs.md">
